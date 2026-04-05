@@ -135,12 +135,7 @@ Creates a PostgreSQL VIEW consolidating all key carrier metrics into a single re
 ## Files
 
 ```
-├── schema_and_seed_data.sql
-├── solution_script.sql
-├── carriers.csv
-├── charges.csv
-├── routes.csv
-└── shipments.csv
+└── solution_script.sql
 ```
 
 ---

